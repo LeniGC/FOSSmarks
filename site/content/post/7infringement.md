@@ -34,3 +34,4 @@ As a general rule, you are legally entitled to object to confusing use of your t
 
 - **If your trademark isn't only the name of your own software, but also has a different, descriptive meaning, you can't prevent anyone from using the name in that descriptive way.** For instance, others would be free to refer to their own software as “amazingly fancy software“ in advertising, so long as the circumstances of that use don't create confusion. The legal assessment would be different if someone used the expression “Amazing FANCY® software," suggesting that fancy was not just general marketing language but the actual name of the software – your name. Such confusing use is something you could prevent.
 
+- **If your trademark unexpectedly become very successful, and becomes primarily understood by the consumers as referring to the product category, it has become a generic trademark**
